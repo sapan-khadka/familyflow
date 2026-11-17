@@ -8,9 +8,9 @@ This is not a full Scrum implementation. One student handles prioritization, dev
 ## Work tracking
 - [Prioritized issue backlog](https://github.com/sapan-khadka/familyflow/issues)
 - [Repository Projects entry point](https://github.com/sapan-khadka/familyflow/projects)
-- Actual project-board URL: PENDING — replace this line with the created board's URL.
+- [FamilyFlow Development board](https://github.com/users/sapan-khadka/projects/2)
 - Required board columns: Backlog, In Progress, Done.
-- Add existing issues #1–#8 as linked cards. Do not mark unimplemented stories Done.
+- Issues #1–#8 are linked cards, initially in Backlog. Move cards only as actual work progresses.
 - GitHub is used for development planning; the delivered application must operate without internet access.
 
 ## Sprint 1: November 17–23, 2026
